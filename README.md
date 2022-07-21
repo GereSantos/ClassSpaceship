@@ -7,7 +7,7 @@ O MiniProjeto funciona da seguinte forma:
 - Possibilidade de criar um Registro da nave
 - Ler os dados que o usuário inserir(Nome,Número de tripulantes de uma nave)
 - Contém uma função que retorna se a nave esta engatada e se as portas estão abertas
-- 
+
 ## Linguagens Utilizadas
 
 - HTML5
